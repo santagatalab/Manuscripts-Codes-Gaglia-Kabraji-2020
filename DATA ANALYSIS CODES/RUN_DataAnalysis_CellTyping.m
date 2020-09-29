@@ -1,7 +1,7 @@
 %%
 clear all
 
-codedir = 'Y:\add_foleder_with_functions';
+codedir = 'Y:\add_folder_with_functions';
 addpath(codedir)
 
 InCell = 'experiment_folder\';
